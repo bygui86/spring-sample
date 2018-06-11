@@ -1,0 +1,39 @@
+
+---[ Spring general sample - Links ]---
+
+
+---[ Theory
+
+DONE
+[spring-boot-actuator-additional-info]
+http://www.baeldung.com/spring-boot-actuators
+http://codeboje.de/spring-boot-info-actuator/
+[spring-boot-application-server]
+http://www.baeldung.com/spring-boot-application-configuration
+[debug-mode]
+https://dzone.com/articles/debugging-maven-build-mvndebug
+
+IN PROGRESS
+[spring boot performance]
+https://alexecollins.com/spring-boot-performance/
+https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-auto-configuration.html
+
+TODO
+[docker-manve-plugin]
+http://dmp.fabric8.io/
+https://dzone.com/articles/meet-the-docker-maven-plugin
+
+
+---[ Frameworks/Platforms
+
+-
+
+
+---[ Code
+
+-
+
+
+---[ Repo / Examples
+
+-

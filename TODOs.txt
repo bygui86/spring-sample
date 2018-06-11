@@ -1,0 +1,27 @@
+
+---[ Spring general sample - TODOs ]---
+
+DONE
+spring boot
+spring boot devtools
+spring data
+spring web
+spring boot actuator
+micrometer prometheus
+spring mail
+dockerfile
+makefile
+spring boot maven plugin
+spring boot actuator maven git plugin
+spring boot application server
+
+IN-PROGRESS
+spring boot component scan (?)
+
+TODO
+spring profiles
+remove spring starters
+jolokia jmx spring actuator
+spring security
+custom error page
+[OPT] docker maven plugin
