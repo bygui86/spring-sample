@@ -14,9 +14,10 @@ makefile
 spring boot maven plugin
 spring boot actuator maven git plugin
 spring boot application server
+spring boot component scan
 
 IN-PROGRESS
-spring boot component scan (?)
+-
 
 TODO
 spring profiles

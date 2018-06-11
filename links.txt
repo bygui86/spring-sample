@@ -12,11 +12,12 @@ http://codeboje.de/spring-boot-info-actuator/
 http://www.baeldung.com/spring-boot-application-configuration
 [debug-mode]
 https://dzone.com/articles/debugging-maven-build-mvndebug
-
-IN PROGRESS
 [spring boot performance]
 https://alexecollins.com/spring-boot-performance/
 https://docs.spring.io/spring-boot/docs/current/reference/html/using-boot-auto-configuration.html
+
+IN PROGRESS
+-
 
 TODO
 [docker-manve-plugin]
