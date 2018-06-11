@@ -7,7 +7,7 @@ import lombok.experimental.FieldDefaults;
 
 @FieldDefaults(level = AccessLevel.PRIVATE)
 @Getter
-public class Feature {
+public class FeatureDto {
 
 	Boolean enabled;
 
