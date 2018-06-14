@@ -29,7 +29,7 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
 	@Override
 	protected void configure(final HttpSecurity http) throws Exception {
 
-		log.debug("Loading GENERAL security config...");
+		log.debug("Loading INSECURE security config...");
 
 		http
 				.authorizeRequests()
